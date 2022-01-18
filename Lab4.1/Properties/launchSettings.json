@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab4.1": {
+      "commandName": "Project",
+      "commandLineArgs": "intermezzo.txt InternetTermsOfUse.txt"
+    }
+  }
+}

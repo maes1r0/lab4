@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab4.4": {
+      "commandName": "Project",
+      "commandLineArgs": "intermezzo.txt InternetTermsOfUse.txt belik.txt semenchenko.txt butylov.txt"
+    }
+  }
+}
